@@ -1,3 +1,5 @@
+SITE: https://vosog.github.io/geoboat-telaprincipal/
+
 # GEO BOAT - Explore as Águas
 Bem-vindo ao GEO BOAT, seu portal definitivo para exploração marítima e serviços de navegação. Nosso site é projetado para fornecer todas as informações e serviços necessários para tornar suas aventuras marítimas inesquecíveis.
 
